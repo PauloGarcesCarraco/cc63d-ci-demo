@@ -3,7 +3,7 @@
 Esta es una prueba
 
 Ejemplo de la **Clase 5 (CI/CD)** del curso CC63D. Una mini aplicación en **Go**
-con una pipeline de GitHub Actions que muestra las tres etapas de un CI:
+con una  pipeline de GitHub Actions que muestra las tres etapas de un CI:
 
 
 ```
